@@ -9,7 +9,6 @@ build/
 *.tsbuildinfo
 
 # Ignore compiled JavaScript files
-*.js
 *.jsx
 *.js.map
 *.jsx.map
